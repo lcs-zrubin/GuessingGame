@@ -12,6 +12,7 @@
 		7117D7B3200A5A71009B8E0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7117D7B1200A5A71009B8E0B /* Main.storyboard */; };
 		7117D7B5200A5A71009B8E0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7117D7B4200A5A71009B8E0B /* Assets.xcassets */; };
 		7117D7B8200A5A71009B8E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7117D7B6200A5A71009B8E0B /* LaunchScreen.storyboard */; };
+		7117D7C0200A5FEB009B8E0B /* 1wmodn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7117D7BF200A5FEB009B8E0B /* 1wmodn.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7117D7B4200A5A71009B8E0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7117D7B7200A5A71009B8E0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7117D7B9200A5A71009B8E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7117D7BF200A5FEB009B8E0B /* 1wmodn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1wmodn.jpg; path = ../../../Desktop/1wmodn.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				7117D7AC200A5A71009B8E0B /* GuessingGame */,
 				7117D7AB200A5A71009B8E0B /* Products */,
+				7117D7BF200A5FEB009B8E0B /* 1wmodn.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +129,7 @@
 				7117D7B8200A5A71009B8E0B /* LaunchScreen.storyboard in Resources */,
 				7117D7B5200A5A71009B8E0B /* Assets.xcassets in Resources */,
 				7117D7B3200A5A71009B8E0B /* Main.storyboard in Resources */,
+				7117D7C0200A5FEB009B8E0B /* 1wmodn.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
