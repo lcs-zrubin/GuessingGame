@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     // MARK: Outlets
     
     @IBOutlet weak var numberGuessed: UITextField!
+    @IBOutlet weak var messageToUser: UILabel!
     
     // MARK: Properties (variables)
     var game = GuessingGame()
@@ -47,6 +48,8 @@ class ViewController: UIViewController {
             //If the input was text (e.g. "Five" we cant make it an integer so stop and return (exit) the function
             return
         }
+        
+        messageToUser.text = game.checkGuessGiveFeedback(guess: integerGiven)
         
     }
     
